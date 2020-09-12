@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb58b32c-6d4e-41d7-825d-90f292ed1a10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/GoLang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn Golang/.idea/GoLang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn Golang/6. Pointer/3. quiz/.idea/3. quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn Golang/7.Interface/1. basic/.idea/7.Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Pemrograman Web Go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. pertama/calculation/add.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. pertama/calculation/muliple.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. pertama/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. pertama/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/1. variable/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/1. variable/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/2. percabangan/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/2. percabangan/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/3. Switch case/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/3. Switch case/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/4. perulangan for/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/4. perulangan for/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/5. quiz/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. basic/5. quiz/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/1. array/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/1. array/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/2. slice/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/2. slice/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/3. map/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/3. map/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/4. slicemap/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/4. slicemap/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/5. quiz/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. advance/5. quiz/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. function/1. basic function/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. function/1. basic function/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. function/2. multiple return/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. function/2. multiple return/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. function/3. quiz/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. function/3. quiz/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/1. basic/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/1. basic/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/2. struct parameter/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/2. struct parameter/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/3. embedded struct/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/3. embedded struct/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/4. method/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/4. method/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/5. quiz/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. struct/5. quiz/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/1. basic/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/1. basic/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/1.1 Pointer in function/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/2. method dengan pointer receiver/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/2. method dengan pointer receiver/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/.idea/3. quiz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.Interface/.idea/7.Interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.Interface/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.Interface/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.Interface/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.Interface/2. implementasi interface/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.Interface/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.Interface/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leaarn Golang V2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leaarn Golang V2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leaarn Golang V2/A. Pemrograman Go Dasar/1. Program Hello World/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leaarn Golang V2/A. Pemrograman Go Dasar/1. Program Hello World/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leaarn Golang V2/A. Pemrograman Go Dasar/2. Variabel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hQ1zuRA3J0VietafvzRZy5I0T3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
