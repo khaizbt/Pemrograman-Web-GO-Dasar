@@ -1,0 +1,13 @@
+{{define "dashboard"}}
+    <!DOCTYPE html>
+    <html>
+        <head>
+            {{template "_header"}}
+        </head>
+        <body>
+            <p>{{ template "_profile" }}</p>
+            <p>{{.name}}</p>
+            <p>{{.data}}</p>
+        </body>
+    </html>
+{{end}}
