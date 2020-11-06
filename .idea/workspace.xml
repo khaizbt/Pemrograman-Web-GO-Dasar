@@ -2,92 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb58b32c-6d4e-41d7-825d-90f292ed1a10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/GoLang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Learn Golang/.idea/GoLang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Learn Golang/6. Pointer/3. quiz/.idea/3. quiz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Learn Golang/7.Interface/1. basic/.idea/7.Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Static Assets/assets/WhatsApp Image 2020-08-28 at 13.35.12.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Static Assets/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Static Assets/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Templating HTML/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Templating HTML/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Templating HTML/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Render Partial HTML/dashboard/_header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Render Partial HTML/dashboard/_profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Render Partial HTML/dashboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Render Partial HTML/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Render Partial HTML/views/_header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Render Partial HTML/views/_message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Render Partial HTML/views/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Render Partial HTML/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Template Actions &amp; Variables/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Template Actions &amp; Variables/views/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1. pertama/calculation/add.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1. pertama/calculation/muliple.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1. pertama/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1. pertama/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/1. variable/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/1. variable/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/2. percabangan/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/2. percabangan/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/3. Switch case/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/3. Switch case/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/4. perulangan for/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/4. perulangan for/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/5. quiz/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. basic/5. quiz/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/1. array/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/1. array/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/2. slice/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/2. slice/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/3. map/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/3. map/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/4. slicemap/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/4. slicemap/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/5. quiz/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. advance/5. quiz/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. function/1. basic function/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. function/1. basic function/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. function/2. multiple return/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. function/2. multiple return/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. function/3. quiz/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. function/3. quiz/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/1. basic/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/1. basic/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/2. struct parameter/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/2. struct parameter/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/3. embedded struct/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/3. embedded struct/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/4. method/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/4. method/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/5. quiz/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. struct/5. quiz/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/1. basic/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/1. basic/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/1.1 Pointer in function/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/2. method dengan pointer receiver/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/2. method dengan pointer receiver/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/.idea/3. quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. Pointer/3. quiz/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Interface/.idea/7.Interface.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Interface/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Interface/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Interface/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Interface/2. implementasi interface/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Interface/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Interface/main.go" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Render HTML String/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Method GET and POST/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12. Form Value/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12. Form Value/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Form Upload File/assets/WhatsApp Image 2020-10-10 at 20.24.03.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Form Upload File/assets/sayang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Form Upload File/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Form Upload File/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Basic Auth/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Basic Auth/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Basic Auth/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Basic Auth/student.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Middleware Http.Handler/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Middleware Http.Handler/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Middleware Http.Handler/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Middleware Http.Handler/student.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16. Custom Multiplexer/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16. Custom Multiplexer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16. Custom Multiplexer/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16. Custom Multiplexer/student.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. HTTP Cookie/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.ConfigdiGo/conf/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.ConfigdiGo/conf/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.ConfigdiGo/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.ConfigdiGo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Template Functions/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Template Functions/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Custom Functions/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Custom Functions/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Render Spesific HTML/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Render Spesific HTML/views/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Leaarn Golang V2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leaarn Golang V2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leaarn Golang V2/A. Pemrograman Go Dasar/1. Program Hello World/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leaarn Golang V2/A. Pemrograman Go Dasar/1. Program Hello World/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leaarn Golang V2/A. Pemrograman Go Dasar/2. Variabel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1. Hello World/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +53,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="1hQ1zuRA3J0VietafvzRZy5I0T3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -115,6 +65,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -122,29 +73,52 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2.Static Assets/assets" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\GoLang\Pemrograman Web Go" />
+      <recent name="E:\Project\GoLang\Pemrograman Web Go\2.Static Assets\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\GoLang\Pemrograman Web Go\12. Form Value" />
+      <recent name="E:\Project\GoLang\Pemrograman Web Go\8. Custom Functions\views" />
+      <recent name="E:\Project\GoLang\Pemrograman Web Go\7. Template Functions\views" />
       <recent name="E:\Project\GoLang\Pemrograman Web Go\4. Render Partial HTML" />
       <recent name="E:\Project\GoLang\Pemrograman Web Go\1. Hello World" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Project\GoLang\Pemrograman Web Go\2.Static Assets\assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="HTML Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="HTML Template" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="650" y="7" key="CommitChangelistDialog2" timestamp="1599929338575">
+    <state x="650" y="7" key="CommitChangelistDialog2" timestamp="1602346228220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="650" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1599929338575" />
-    <state x="926" y="175" key="FileChooserDialogImpl" timestamp="1599930018946">
+    <state x="650" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602346228220" />
+    <state x="926" y="175" key="FileChooserDialogImpl" timestamp="1602346255498">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="926" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599930018946" />
+    <state x="926" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602346255498" />
+    <state x="300" y="62" key="SettingsEditor" timestamp="1604679231771">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604679231771" />
+    <state x="755" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602425382570">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="755" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1602425382570" />
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1602514499012">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602514499012" />
   </component>
 </project>
